@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/gamio-interactive-platform-4891-4900/react_frontend"
+}
